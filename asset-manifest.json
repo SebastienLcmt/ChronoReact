@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ChronoReact/static/css/main.db07e494.chunk.css",
+    "main.js": "/ChronoReact/static/js/main.0572ce11.chunk.js",
+    "main.js.map": "/ChronoReact/static/js/main.0572ce11.chunk.js.map",
+    "runtime-main.js": "/ChronoReact/static/js/runtime-main.7a4e8898.js",
+    "runtime-main.js.map": "/ChronoReact/static/js/runtime-main.7a4e8898.js.map",
+    "static/js/2.9eeff0a3.chunk.js": "/ChronoReact/static/js/2.9eeff0a3.chunk.js",
+    "static/js/2.9eeff0a3.chunk.js.map": "/ChronoReact/static/js/2.9eeff0a3.chunk.js.map",
+    "index.html": "/ChronoReact/index.html",
+    "static/css/main.db07e494.chunk.css.map": "/ChronoReact/static/css/main.db07e494.chunk.css.map",
+    "static/js/2.9eeff0a3.chunk.js.LICENSE.txt": "/ChronoReact/static/js/2.9eeff0a3.chunk.js.LICENSE.txt",
+    "static/media/pause.f8c47a1a.svg": "/ChronoReact/static/media/pause.f8c47a1a.svg",
+    "static/media/play.b23df41a.svg": "/ChronoReact/static/media/play.b23df41a.svg",
+    "static/media/reset.adefad1d.svg": "/ChronoReact/static/media/reset.adefad1d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a4e8898.js",
+    "static/js/2.9eeff0a3.chunk.js",
+    "static/css/main.db07e494.chunk.css",
+    "static/js/main.0572ce11.chunk.js"
+  ]
+}
